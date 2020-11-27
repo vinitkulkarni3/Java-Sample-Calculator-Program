@@ -18,6 +18,12 @@ public class Calculator {
         // TODO code application logic here
         
         System.out.println("WELCOME TO JAVA CALCULATOR PROGRAM");
+        
+        int a = 10;
+        int b = 10;
+        
+        int add = a+b;
+        System.out.println(add);
     }
     
 }
