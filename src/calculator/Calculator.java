@@ -24,6 +24,9 @@ public class Calculator {
         
         int add = a+b;
         System.out.println(add);
+        
+        int sub = a-b;
+        System.out.println(sub);
     }
     
 }
