@@ -27,6 +27,9 @@ public class Calculator {
         
         int sub = a-b;
         System.out.println(sub);
+        
+        int mul = a*b;
+        System.out.println(mul);
     }
     
 }
