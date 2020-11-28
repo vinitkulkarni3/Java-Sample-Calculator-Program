@@ -30,6 +30,9 @@ public class Calculator {
         
         int mul = a*b;
         System.out.println(mul);
+        
+        int div = a/b;
+        System.out.println(div);
     }
     
 }
